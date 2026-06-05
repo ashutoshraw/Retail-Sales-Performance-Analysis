@@ -179,9 +179,9 @@ jupyter notebook
 ---
 
 ## 📬 Connect With Me
-- **LinkedIn:** your-linkedin-url
-- **GitHub:** your-github-url
-- **Email:** your-email
+- **LinkedIn:** https://www.linkedin.com/in/ashutosh-rawat-032ab4263/
+- **GitHub:** https://github.com/ashutoshraw
+- **Email:** ashutoshrawat301@gmail.com
 
 ---
 
